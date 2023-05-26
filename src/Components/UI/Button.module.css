@@ -1,0 +1,17 @@
+.button {
+  font-family: "Pangolin", cursive;
+  color: #cad5e2;
+  background-color: #6a1b4d;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+.button p {
+  width: 100%;
+  text-align: center;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #03203c;
+}

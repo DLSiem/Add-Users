@@ -1,0 +1,25 @@
+.userInput {
+  width: auto;
+  padding: 20px;
+}
+.labelInput {
+  color: #6a1b4d;
+  font-family: "Pangolin", cursive;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+input {
+  border-radius: 5px;
+  height: 1.5rem;
+  font-size: 1.2rem;
+  width: 100%;
+}
+
+.addUser {
+  margin-top: 10px;
+  height: 2rem;
+  font-size: 1.2rem;
+  width: 10rem;
+  padding: 1px;
+}

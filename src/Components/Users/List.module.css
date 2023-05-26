@@ -1,0 +1,18 @@
+.container {
+  margin-top: 10px;
+  width: auto;
+}
+ul {
+  list-style-type: none;
+  padding-block: 15px;
+}
+
+li {
+  margin-top: 5px;
+  border: 1px solid;
+  margin-right: 0.9rem;
+  align-items: center;
+  width: auto;
+  margin-left: -1.2rem;
+  padding: 4px;
+}
